@@ -1,0 +1,43 @@
+{
+  "name": "3dio-storage-app",
+  "version": "0.0.1",
+  "description": "UI for 3d.io storage API",
+  "keywords": [
+    "3d",
+    "aframe",
+    "cardboard",
+    "components",
+    "oculus",
+    "vive",
+    "rift",
+    "vr",
+    "WebVR",
+    "WegGL",
+    "three",
+    "three.js",
+    "3D model",
+    "api",
+    "visualization",
+    "furniture",
+    "real estate",
+    "interior",
+    "building",
+    "architecture",
+    "3d.io"
+  ],
+  "homepage": "https://3d.io",
+  "repository": "archilogic-com/3dio-inspector-plugins",
+  "license": "MIT",
+  "author": {
+    "name": "archilogic",
+    "email": "dev.rocks@archilogic.com",
+    "url": "https://archilogic.com"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
